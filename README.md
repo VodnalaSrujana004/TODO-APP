@@ -12,11 +12,6 @@ TodoApp is a simple, yet powerful, task management application built using JavaS
 - **Mark as Completed**: Check off tasks as you complete them.
 - **Persistent Data**: The tasks are saved in the browser's local storage, so your data is retained even after refreshing the page.
 
-## Demo
-
-![TodoApp Screenshot](screenshot.png)  
-*Replace the above with an actual screenshot of your application.*
-
 ## Installation
 
 To get started with TodoApp, follow these steps:
@@ -24,4 +19,4 @@ To get started with TodoApp, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/todoapp.git
+   git clone https://github.com/VodnalaSrujana004/TODO-APP.git
